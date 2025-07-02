@@ -1,4 +1,4 @@
-package com.qaomuu.problems;
+package cc.vlon.problems;
 
 /**
  * 找出字符串中第一个匹配项的下标

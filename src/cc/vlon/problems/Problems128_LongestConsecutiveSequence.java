@@ -1,4 +1,4 @@
-package com.qaomuu.problems;
+package cc.vlon.problems;
 
 import java.util.HashSet;
 import java.util.Set;
